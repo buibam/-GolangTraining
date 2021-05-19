@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3e4f78e-78a3-4d3e-a30d-9b334742303e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1eRTFFlXnn1ti8ON2rWPWN16OEo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/section_19_Ninja_08/exercise_04" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vbui\Documents\goworkspace\src\github.com\buibam\GolangTraining\section_19_Ninja_08\exercise_04" />
+      <recent name="C:\Users\vbui\Documents\goworkspace\src\github.com\buibam\GolangTraining\18_Application\Sort_custom" />
+      <recent name="C:\Users\vbui\Documents\goworkspace\src\github.com\buibam\GolangTraining\20_function\Interfaces&amp;polymorphin" />
+      <recent name="C:\Users\vbui\Documents\goworkspace\src\github.com\buibam\GolangTraining\Exercises_Ninja_05" />
+      <recent name="C:\Users\vbui\Documents\goworkspace\src\github.com\buibam\GolangTraining\20_struct\02_Anonymous_structs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vbui\Documents\goworkspace\src\github.com\buibam\GolangTraining\exercises_Ninja" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.numberic_types.go">
+    <configuration name="go build github.com/buibam/GolangTraining/exercises_Ninja" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolangTraining" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/exercises_Ninja/exercise_01.go" />
+      <package value="github.com/buibam/GolangTraining/exercises_Ninja" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numberic_types.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="GolangTraining" />
+      <working_directory value="$PROJECT_DIR$/Numeric_types" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/exercises_Ninja/exercise_02.go|$PROJECT_DIR$/Numeric_types/numberic_types.go" />
+      <package value="github.com/buibam/GolangTraining/exercises_Ninja" />
+      <directory value="$PROJECT_DIR$/" />
+      <option name="run" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build github.com/buibam/GolangTraining/exercises_Ninja" />
+      <item itemvalue="Go Build.numberic_types.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.numberic_types.go" />
+        <item itemvalue="Go Build.go build github.com/buibam/GolangTraining/exercises_Ninja" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="186" key="#Notifications" timestamp="1603176719622">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="592" y="186" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1603176719622" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595319598852">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595319598852" />
+    <state x="351" y="0" key="#go_build_exercise_02.go_numberic_types.go" timestamp="1595319377286">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#go_build_exercise_02.go_numberic_types.go/0.0.1280.680@0.0.1280.680" timestamp="1595319377286" />
+    <state x="351" y="0" key="#go_build_github.com/buibam/GolangTraining/exercises_Ninja" timestamp="1594555004949">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#go_build_github.com/buibam/GolangTraining/exercises_Ninja/0.0.1280.680@0.0.1280.680" timestamp="1594555004949" />
+    <state x="351" y="0" key="#go_build_github.com/buibam/GolangTraining/exercises_Ninja_(1)" timestamp="1594625830223">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#go_build_github.com/buibam/GolangTraining/exercises_Ninja_(1)/0.0.1280.680@0.0.1280.680" timestamp="1594625830223" />
+    <state x="351" y="0" key="#numberic_types.go" timestamp="1595319481426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#numberic_types.go/0.0.1280.680@0.0.1280.680" timestamp="1595319481426" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595319371989">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595319371989" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595319613467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595319613467" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1595319613467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595319613467" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1595319613467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595319613467" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1595319613467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595319613467" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1594626117032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594626117032" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1594626117032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1594626117032" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1594626117032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1594626117032" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1594626117032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1594626117032" />
+    <state x="371" y="269" key="com.goide.actions.debugger.GoDebugCoreDumpAction$CoreDumpDialog" timestamp="1594554800340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="269" key="com.goide.actions.debugger.GoDebugCoreDumpAction$CoreDumpDialog/0.0.1280.680@0.0.1280.680" timestamp="1594554800340" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1596102777310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1596102777310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20_struct/02_Anonymous_structs/main.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

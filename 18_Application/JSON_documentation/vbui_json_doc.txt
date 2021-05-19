@@ -1,0 +1,10 @@
+https://golang.org/pkg/encoding/json/
+https://pkg.go.dev/encoding/json
+
+
+What is JSON?
+https://blog.golang.org/json
+
+Instroduct JSON
+https://www.json.org/json-en.html
+
