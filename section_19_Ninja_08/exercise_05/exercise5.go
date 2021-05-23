@@ -57,7 +57,7 @@ func main() {
 	}
 
 	users := []user{u1, u2, u3}
-
+        fmt.Println("Sort by Ange")
 	sort.Sort(ByAge(users))
 	for _, v := range users {
 		fmt.Println(v.First, v.Last, v.Age)
@@ -65,7 +65,8 @@ func main() {
 			fmt.Println("\t",str)
 		}
 	}
-
+        fmt.Println("-----------------------------")
+	fmt.Println("Sort by Last Name.")
 	sort.Sort(ByLast(users))
 	for _, v := range users {
 		fmt.Println(v.First, v.Last, v.Age)
