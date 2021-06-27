@@ -1,0 +1,15 @@
+Download and Setup visualstudio for Go
+https://code.visualstudio.com
+and Download
+Double click on downloaded file to install
+
+Now to to setup for Go
+Choose package management on last icon on left side.
+And then search: go
+Download and click install link.
+
+ctr(cmd) + shift + P
+>Go: Install/Update Tools
+Select all and ok.
+All tools are installed.
+
